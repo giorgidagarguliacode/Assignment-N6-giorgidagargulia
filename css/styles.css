@@ -52,9 +52,68 @@
 .bottomside-one{
     background-color: #FFFFFF;
     width: 362px;
-    height: 186px;
+    height: 200px;
      border-radius: 5px 5px;
-}
-.bottomside-one{
+     
     
+}
+.bottomside-one p{
+   line-height: 2.5;
+    font-family: "Roboto", sans-serif;
+     font-weight: 700;
+    color:  #8A8787;
+    font-size: 10px;
+    padding: 68px 87px 14px 37px;
+}
+.bottomside-one img{
+    padding: 0 0 40px 40px;
+    margin-right: 11px;
+}
+.bottomside-one span{
+    font-family: "Roboto", sans-serif;
+     font-weight: 700;
+     font-size: 10px;
+     color: #8A8787;
+     vertical-align: 44px;
+}
+.topside-two {
+    width: 362px;
+    height: 186px;
+    background-image: url(../images/seaside.svg);
+    border-radius: 5px 5px;
+    
+}
+.topside-two p{
+     font-family: "Roboto", sans-serif;
+      font-weight: 700;
+       font-size: 20px;
+    color: #FFFFFF;
+    padding: 32px 0 0 41px;
+}
+.bottomside-two{
+    background-color: #FFFFFF;
+    width: 362px;
+    height: 200px;
+     border-radius: 5px 5px;
+     
+    
+}
+.bottomside-two p{
+   line-height: 2.5;
+    font-family: "Roboto", sans-serif;
+     font-weight: 700;
+    color:  #8A8787;
+    font-size: 10px;
+    padding: 68px 87px 14px 37px;
+}
+.bottomside-two img{
+    padding: 0 0 40px 40px;
+    margin-right: 11px;
+}
+.bottomside-two span{
+    font-family: "Roboto", sans-serif;
+     font-weight: 700;
+     font-size: 10px;
+     color: #8A8787;
+     vertical-align: 44px;
 }
