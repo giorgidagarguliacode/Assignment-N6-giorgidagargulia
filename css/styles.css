@@ -1,10 +1,16 @@
  body{
     background-color: #f1f1f1;
     background-size: cover;
+    margin-top: 80px;
+   height: 1743px;
+    
 }
 .header-container{
-    margin: 21px 0 42px 137px;
-   
+position: fixed;
+   top: 21px;    
+    left: 137px;
+    
+    
 }
 .header-container a{
     margin-right: 35px;
@@ -111,6 +117,47 @@
     margin-right: 11px;
 }
 .bottomside-two span{
+    font-family: "Roboto", sans-serif;
+     font-weight: 700;
+     font-size: 10px;
+     color: #8A8787;
+     vertical-align: 44px;
+}
+.topside-three {
+    width: 362px;
+    height: 186px;
+    background-image: url(../images/Iceberg.svg);
+    border-radius: 5px 5px;
+    
+}
+.topside-three p{
+     font-family: "Roboto", sans-serif;
+      font-weight: 700;
+       font-size: 20px;
+    color: #FFFFFF;
+    padding: 32px 0 0 41px;
+}
+.bottomside-three{
+    background-color: #FFFFFF;
+    width: 362px;
+    height: 200px;
+     border-radius: 5px 5px;
+     
+    
+}
+.bottomside-three p{
+   line-height: 2.5;
+    font-family: "Roboto", sans-serif;
+     font-weight: 700;
+    color:  #8A8787;
+    font-size: 10px;
+    padding: 68px 87px 14px 37px;
+}
+.bottomside-three img{
+    padding: 0 0 40px 40px;
+    margin-right: 11px;
+}
+.bottomside-three span{
     font-family: "Roboto", sans-serif;
      font-weight: 700;
      font-size: 10px;
